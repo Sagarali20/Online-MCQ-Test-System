@@ -1,0 +1,195 @@
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\mcq.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\mcq.pdb
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\Antlr3.Runtime.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.AspNet.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.Core.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OAuth.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OpenId.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\EntityFramework.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\System.Web.Optimization.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\System.Web.Providers.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\WebGrease.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\EntityFramework.xml
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.Core.xml
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OAuth.xml
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OpenId.xml
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\bin\DotNetOpenAuth.AspNet.xml
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\obj\Debug\mcq.dll
+c:\users\aub\documents\visual studio 2012\Projects\mcq\mcq\obj\Debug\mcq.pdb
+C:\Users\Aub\Documents\Visual Studio 2012\Projects\mcq\mcq\obj\Debug\mcq.csprojResolveAssemblyReference.cache
+F:\mcq\mcq\New folder\mcq\mcq\bin\mcq.dll.config
+F:\mcq\mcq\New folder\mcq\mcq\bin\mcq.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\mcq.pdb
+F:\mcq\mcq\New folder\mcq\mcq\bin\Antlr3.Runtime.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\AspNet.ScriptManager.jQuery.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.AspNet.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.Core.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OAuth.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OpenId.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\EntityFramework.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\Microsoft.ScriptManager.WebForms.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\Microsoft.Web.Infrastructure.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\System.Web.Optimization.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\System.Web.Providers.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\WebGrease.dll
+F:\mcq\mcq\New folder\mcq\mcq\bin\EntityFramework.xml
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.Core.xml
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OAuth.xml
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OpenId.xml
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\mcq\mcq\New folder\mcq\mcq\bin\DotNetOpenAuth.AspNet.xml
+F:\mcq\mcq\New folder\mcq\mcq\obj\Debug\mcq.csprojAssemblyReference.cache
+F:\mcq\mcq\New folder\mcq\mcq\obj\Debug\mcq.csproj.CoreCompileInputs.cache
+F:\mcq\mcq\New folder\mcq\mcq\obj\Debug\mcq.csproj.CopyComplete
+F:\mcq\mcq\New folder\mcq\mcq\obj\Debug\mcq.dll
+F:\mcq\mcq\New folder\mcq\mcq\obj\Debug\mcq.pdb
+F:\mcq\mcq\sobuj\mcq\mcq\bin\mcq.dll.config
+F:\mcq\mcq\sobuj\mcq\mcq\bin\mcq.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\mcq.pdb
+F:\mcq\mcq\sobuj\mcq\mcq\bin\Antlr3.Runtime.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\EntityFramework.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.WebForms.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\Microsoft.Web.Infrastructure.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\System.Web.Optimization.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\System.Web.Providers.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\WebGrease.dll
+F:\mcq\mcq\sobuj\mcq\mcq\bin\EntityFramework.xml
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.xml
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.xml
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.xml
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\mcq\mcq\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.xml
+F:\mcq\mcq\sobuj\mcq\mcq\obj\Debug\mcq.csprojAssemblyReference.cache
+F:\mcq\mcq\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CoreCompileInputs.cache
+F:\mcq\mcq\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CopyComplete
+F:\mcq\mcq\sobuj\mcq\mcq\obj\Debug\mcq.dll
+F:\mcq\mcq\sobuj\mcq\mcq\obj\Debug\mcq.pdb
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.dll.config
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.pdb
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Antlr3.Runtime.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\EntityFramework.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.WebForms.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.Web.Infrastructure.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\System.Web.Optimization.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\System.Web.Providers.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\WebGrease.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\EntityFramework.xml
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.xml
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.xml
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.xml
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.xml
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CoreCompileInputs.cache
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CopyComplete
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.dll
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.pdb
+F:\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csprojAssemblyReference.cache
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.dll.config
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.pdb
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Antlr3.Runtime.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\EntityFramework.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.WebForms.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.Web.Infrastructure.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\System.Web.Optimization.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\System.Web.Providers.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\WebGrease.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\EntityFramework.xml
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.xml
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.xml
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.xml
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.xml
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csprojAssemblyReference.cache
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CoreCompileInputs.cache
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CopyComplete
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.dll
+G:\project_file\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.pdb
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.dll.config
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\mcq.pdb
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Antlr3.Runtime.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\EntityFramework.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.ScriptManager.WebForms.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\System.Web.Optimization.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\System.Web.Providers.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\WebGrease.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\EntityFramework.xml
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.Core.xml
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.xml
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.xml
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\bin\DotNetOpenAuth.AspNet.xml
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csprojAssemblyReference.cache
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CoreCompileInputs.cache
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.csproj.CopyComplete
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.dll
+G:\MVC\mcq\mcq\saga1\sobuj\mcq\mcq\obj\Debug\mcq.pdb
